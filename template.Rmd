@@ -37,7 +37,7 @@ set.seed(27)             # make random results reproducible
 
 Here is a [link](https://adv-r.hadley.nz/). Your homework goes here.
 
-Briefly, some of the custom latex macros: $y = \b x + \e$. 
+Briefly, some of the custom latex macros: $y =  x + \epsilon$. 
 
 \[
 e^{i \pi} = -1
